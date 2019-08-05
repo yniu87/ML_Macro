@@ -5,6 +5,8 @@ Notre Dame CSE 60625 Machine Learning (Spring 2019)
 Yuanhao Niu (PhD Student: Economics)  
 Cale Harnish (PhD Student: Aerospace and Mechanical Engineering)  
 
+### Abstract    
+
 We leverage Artificial Neural Networks (ANN) to approximate partial differential equations (PDEs), which represent macroeconomic dynamics. A temporal difference(TD) learning approach is adopted. We first solve a baseline Neoclassical Growth (NCG) model in one dimension. We compare our solutions from deep learning with existing results from the literature for numerical accuracy. Then, we extend the baseline NCG model with an additional input (productivity shock) and a diffusion process. This algorithm complements traditional numerical techniques (\emph{e.g.} finite difference method) and can be easily scaled to higher dimensions.
 
 
@@ -12,7 +14,7 @@ We leverage Artificial Neural Networks (ANN) to approximate partial differential
 Neoclassical Growth Model [w/ Capital](https://github.com/yniu87/ML_Macro/blob/master/NCG_1D.ipynb).  
 Neoclassical Growth Model [w/ Capital and TFP shcoks](https://github.com/yniu87/ML_Macro/blob/master/NCG_2D.ipynb).
 
-### Summary Report
+### Project Report
 [Paper](https://github.com/yniu87/ML_Macro/blob/master/project_paper.pdf).
 
 ## References 
