@@ -16,6 +16,6 @@ Neoclassical Growth Model [W/ Capital and TFP shcoks](https://uwescience.github.
 [Paper](https://uwescience.github.io/ADUniverse/).
 
 ## References 
-[1] Jiequn Han, Arnulf Jentzen, and E Weinan. 2018.   Solving high-dimensionalpartial differential equations using deep learning.Proceedings of the NationalAcademy of Sciences115, 34 (2018), 8505–8510.  
-[2] Yves Achdou, Jiequn Han, Jean-Michel Lasry, Pierre-Louis Lions, and BenjaminMoll. 2017.Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach. Working Paper 23732. National Bureau of Economic Research  
+[1] Jiequn Han, Arnulf Jentzen, and E Weinan. 2018. Solving high-dimensional partial differential equations using deep learning.Proceedings of the National Academy of Sciences115, 34 (2018), 8505–8510.  
+[2] Yves Achdou, Jiequn Han, Jean-Michel Lasry, Pierre-Louis Lions, and Benjamin Moll. 2017. Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach. Working Paper 23732. National Bureau of Economic Research  
 [3] Duarte, Victor, Machine Learning for Continuous-Time Economics (April 26, 2018).  
