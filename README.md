@@ -1,6 +1,6 @@
 # Modeling Macroeconomic Dynamics with Deep Learning
 
-Notre Dame CSE60625 Machine Learning Class Project (Spring 2019)  
+Notre Dame CSE 60625 Machine Learning (Spring 2019)  
 
 Yuanhao Niu (PhD Student: Economics)  
 Cale Harnish (PhD Student: Aerospace and Mechanical Engineering)  
