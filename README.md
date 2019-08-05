@@ -9,7 +9,7 @@ We leverage Artificial Neural Networks (ANN) to approximate partial differential
 
 
 ### Jupyter Notebook 
-Neoclassical Growth Model [W/ Capital](https://uwescience.github.io/ADUniverse/).
+Neoclassical Growth Model [W/ Capital](https://uwescience.github.io/ADUniverse/).  
 Neoclassical Growth Model [W/ Capital and TFP shcoks](https://uwescience.github.io/ADUniverse/).
 
 ### Summary Report
@@ -17,5 +17,5 @@ Neoclassical Growth Model [W/ Capital and TFP shcoks](https://uwescience.github.
 
 ## References 
 [1] Jiequn Han, Arnulf Jentzen, and E Weinan. 2018. Solving high-dimensional partial differential equations using deep learning.Proceedings of the National Academy of Sciences 115, 34 (2018), 8505–8510.  
-[2] Yves Achdou, Jiequn Han, Jean-Michel Lasry, Pierre-Louis Lions, and Benjamin Moll. 2017. Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach. NBER Working Paper 23732. 
+[2] Yves Achdou, Jiequn Han, Jean-Michel Lasry, Pierre-Louis Lions, and Benjamin Moll. 2017. Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach. NBER Working Paper 23732.  
 [3] Duarte, Victor, Machine Learning for Continuous-Time Economics (April 26, 2018).  
